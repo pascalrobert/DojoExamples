@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/uuid
+END
+Uuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/uuid/Uuid.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/uuid/_base.js
+END
+generateTimeBasedUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/uuid/generateTimeBasedUuid.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/uuid/README
+END
+generateRandomUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/uuid/generateRandomUuid.js
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form
+END
+_FormWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/_FormWidget.js
+END
+NumberTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/NumberTextBox.js
+END
+ValidationTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/ValidationTextBox.js
+END
+ComboBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/ComboBox.js
+END
+CurrencyTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/CurrencyTextBox.js
+END
+TimeTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/TimeTextBox.js
+END
+_Spinner.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/_Spinner.js
+END
+Textarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/Textarea.js
+END
+VerticalRuleLabels.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/VerticalRuleLabels.js
+END
+NumberSpinner.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/NumberSpinner.js
+END
+DateTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/DateTextBox.js
+END
+TextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/TextBox.js
+END
+VerticalRule.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/VerticalRule.js
+END
+Form.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/Form.js
+END
+HorizontalRuleLabels.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/HorizontalRuleLabels.js
+END
+_FormMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/_FormMixin.js
+END
+_DateTimeTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/_DateTimeTextBox.js
+END
+Button.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/Button.js
+END
+VerticalSlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/VerticalSlider.js
+END
+ToggleButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/ToggleButton.js
+END
+HorizontalRule.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/HorizontalRule.js
+END
+Slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/Slider.js
+END
+FilteringSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/FilteringSelect.js
+END
+MappedTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/MappedTextBox.js
+END
+CheckBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/CheckBox.js
+END
+SimpleTextarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/SimpleTextarea.js
+END
+DropDownButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/DropDownButton.js
+END
+RadioButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/RadioButton.js
+END
+MultiSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/MultiSelect.js
+END
+ComboButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/ComboButton.js
+END
+HorizontalSlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/HorizontalSlider.js
+END
+RangeBoundTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dijit/form/RangeBoundTextBox.js
+END

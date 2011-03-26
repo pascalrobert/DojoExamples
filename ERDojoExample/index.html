@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="resources/rest.css" />
+	<script type="text/javascript"> djConfig = { isDebug: false, parseOnLoad: true }; </script>
+	<script type="text/javascript" src="lib/dojo/dojo.js"></script>
+	<script type="text/javascript" src="resources/js/rest.js"></script>
+    </head>
+    <body>
+        <div id="page">
+            <div id="header">
+                <h1><span class="title"></span><a href="/cgi-bin/WebObjects/RESTExample.woa/wa/default">ERDojoExample</a></h1>
+            </div>
+            <div id="content">
+                <div class="panel">
+                    <div class="title">
+                        Rest Examples
+                    </div>
+                    <div class="content">
+                        <style type="text/css">
+                            div.panel div.content ul li {
+                                margin-top: 1em;
+                            }
+                        </style>
+                        This is a client-side page that connects to the ERXRestRouteExample application coming from Project Wonder.
+                        <ul>
+                            <li>
+                                <b><a href="#" onclick="javascript:fetchCompanies(this)">Show all Companies (JSON format)</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:fetchPerson(this)">Show Person 1 in JSON format</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:updatePersonName(this)">Update an attribute on Person</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:updatePersonEmployer(this)">Update a to-one relationship on Person</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:createNewPerson(this)">Create a new Person</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:createNewPersonWithEmployer(this)">Create a new Person with a to-one relationship</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:createNewPersonWithNewEmployer(this)">Create a new Person and create a Company in its to-one relationship</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:updateLockedRelationship(this)">Update attribute across locked relationship (works)</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:changeLockedRelationship(this)">Change locked relationship (ignored)</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:erxKeyFilter(this)">ERXKeyFilter.Delegate API (doesn't allow setting a Person's company name to 'Microsoft')</a></b>
+                                <br/>
+                            </li>
+                            <li>
+                                <b><a href="#" onclick="javascript:deleteCompany(this)">Delete a Company</a></b>
+                                <br/>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+                &nbsp;
+            </div>
+        </div>
+    </body>
+</html>

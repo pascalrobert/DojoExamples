@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp
+END
+PresenceService.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/PresenceService.js
+END
+xmppSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/xmppSession.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/util.js
+END
+RosterService.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/RosterService.js
+END
+UserService.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/UserService.js
+END
+ChatService.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/ChatService.js
+END
+TransportSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/TransportSession.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/README
+END
+sasl.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/xmpp/sasl.js
+END

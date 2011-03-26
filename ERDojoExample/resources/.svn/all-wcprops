@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/probert/!svn/ver/6/ERDojoExample/resources
+END
+build_demos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/probert/!svn/ver/5/ERDojoExample/resources/build_demos.sh
+END
+ext_demos.json
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/probert/!svn/ver/5/ERDojoExample/resources/ext_demos.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/probert/!svn/ver/5/ERDojoExample/resources/LICENSE
+END
+rest.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/probert/!svn/ver/6/ERDojoExample/resources/rest.css
+END
+users.json
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/probert/!svn/ver/5/ERDojoExample/resources/users.json
+END
+demos.css
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/probert/!svn/ver/5/ERDojoExample/resources/demos.css
+END

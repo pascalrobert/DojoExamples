@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/cldr/nls/zh-tw
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/cldr/nls/zh-tw/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/cldr/nls/zh-tw/currency.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/cldr/nls/zh-tw/gregorian.js
+END

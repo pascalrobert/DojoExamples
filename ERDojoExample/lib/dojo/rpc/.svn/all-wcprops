@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/rpc
+END
+RpcService.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/rpc/RpcService.js
+END
+JsonService.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/rpc/JsonService.js
+END
+JsonpService.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/probert/!svn/ver/5/ERDojoExample/lib/dojo/rpc/JsonpService.js
+END

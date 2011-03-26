@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional
+END
+curry.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/curry.js
+END
+object.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/object.js
+END
+sequence.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/sequence.js
+END
+linrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/linrec.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/util.js
+END
+array.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/array.js
+END
+reversed.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/reversed.js
+END
+lambda.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/lambda.js
+END
+tailrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/tailrec.js
+END
+scan.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/scan.js
+END
+multirec.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/multirec.js
+END
+fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/fold.js
+END
+numrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/numrec.js
+END
+listcomp.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/listcomp.js
+END
+zip.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/zip.js
+END
+binrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/probert/!svn/ver/5/ERDojoExample/lib/dojox/lang/functional/binrec.js
+END
